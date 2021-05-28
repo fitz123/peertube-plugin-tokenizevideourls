@@ -1,3 +1,3 @@
-# PeerTube plugin Quickstart
+# PeerTube secure Video content
 
-See https://docs.joinpeertube.org/#/contribute-plugins?id=write-a-plugintheme
+Add token into video URL in order to be able to authentificate and control streaming
